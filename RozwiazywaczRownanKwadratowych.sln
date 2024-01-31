@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RozwiazywaczRownanKwadratowych", "RozwiazywaczRownanKwadratowych.csproj", "{9BA61CA8-C458-411A-9D6C-86874010CEE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestyRozwiazywaczRownanKwadratowych", "TestyRozwiazywaczRownanKwadratowych\TestyRozwiazywaczRownanKwadratowych.csproj", "{0F87C3CC-CD02-4088-82DB-E3BF704E6403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA61CA8-C458-411A-9D6C-86874010CEE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA61CA8-C458-411A-9D6C-86874010CEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA61CA8-C458-411A-9D6C-86874010CEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA61CA8-C458-411A-9D6C-86874010CEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F87C3CC-CD02-4088-82DB-E3BF704E6403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F87C3CC-CD02-4088-82DB-E3BF704E6403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F87C3CC-CD02-4088-82DB-E3BF704E6403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F87C3CC-CD02-4088-82DB-E3BF704E6403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48C10F32-55CE-48C5-A6F6-C5AB556E47EC}
+	EndGlobalSection
+EndGlobal
